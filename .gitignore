@@ -1,3 +1,7 @@
 build/
 
 .vscode
+
+plot2.cpp
+
+plot3.cpp
